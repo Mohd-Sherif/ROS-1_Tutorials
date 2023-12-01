@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/devel
+
+Name: pioneer_loc_visualize
+Description: Description of pioneer_loc_visualize
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
