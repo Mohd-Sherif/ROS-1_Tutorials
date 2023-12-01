@@ -1,0 +1,2 @@
+beginner_tutorials:my_image_processing:pioneer_loc_visualize
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/catkin_ws/install -G Unix Makefiles
